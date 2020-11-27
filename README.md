@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/HrHasnai/HrHasnai/blob/main/hrhasnai%20(2).png?raw=true" width="500" height="500" />
 
-I'm ♕Font-End Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮SEO Expert🚀✮Designer 📸 I am currently a Computer Science and Engineering Student at Virtual University of Pakistan
+I'm ♕Font-End Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮SEO Expert🚀✮Designer 📸 Currently, I'm a student of BS (Computer Science) at the Virtual University of Pakistan, and now also Developer Student Clubs (DSC Lead) by Google Developer for undergraduate students of Pakistan Virtual University of Pakistan (Lahore)
 
 
 ### I'm ,♕DSC Lead at Google Developers !!
