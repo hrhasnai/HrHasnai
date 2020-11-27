@@ -8,11 +8,11 @@ I'm ♕Font-End Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮S
 ## I'm ,♕DSC Lead at Google Developers !!
 
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on BenSixPortflio.
+- 🔭 I’m currently working on BenSixPortfolio.
 - 🌱 I’m currently learning Full Stack Web Application Development, Flutter and cloud computing.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
+- 📛 Nick Name: Hasnai
 - ⚡ Fun fact: 
 
 
