@@ -2,20 +2,22 @@
 
 <img align="right" alt="GIF" src="https://github.com/HrHasnai/HrHasnai/blob/main/hrhasnai2.png?raw=true" width="500" height="500" />
 
-I'm ♕Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮SEO Expert🚀✮Designer 📸 I am currently a Computer Science and Engineering Student at Virtual University of Pakistan
+I'm ♕Font-End Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮SEO Expert🚀✮Designer 📸 I am currently a Computer Science and Engineering Student at Virtual University of Pakistan
 
 
-## I'm ,♕DSC Lead @Google !!
+## I'm ,♕DSC Lead at Google Developers !!
+
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- 🔭 I’m currently working on BenSixPortflio.
+- 🌱 I’m currently learning Full Stack Web Application Development, Flutter and cloud computing.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ⚡ Secret facts: I'm Pro Yoga Expert.
 
 
 ### :mailbox: Reach me out!
+
 [![Twitter Badge](https://img.shields.io/badge/-@hrhasnai-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hrhasnai)](https://twitter.com/hrhasnai) [![Mail Badge](https://img.shields.io/badge/-hrhasnai-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/hrhasnai) [![Linkedin Badge](https://img.shields.io/badge/-hrhasnai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrhasnai/) [![Mail Badge](https://img.shields.io/badge/-@hrhasnai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hrhasnai) [![Mail Badge](https://img.shields.io/badge/-hrhasnai-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hasnainhasni911@gmail.com)
 
 
