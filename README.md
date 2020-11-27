@@ -9,7 +9,7 @@ I'm ♕Font-End Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮S
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on BenSixPortfolio.
-- 🌱 I’m currently learning Full Stack Web Application Development, Flutter and cloud computing.
+- 🌱 I’m currently learning Full Stack Web Development, Flutter and cloud computing.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 📛 Nick Name: Hasnai
