@@ -1,8 +1,11 @@
-### Hi I'm Hasnain Rasheed 👋
+### Hi I'm Hasnain Rasheed, from Pakisan :pakistan:  👋
 
 <img align="right" alt="GIF" src="https://github.com/HrHasnai/HrHasnai/blob/main/hrhasnai2.png?raw=true" width="500" height="500" />
 
-## I'm ,♕DSC Lead @Google </>Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮SEO Expert🚀✮Designer 📸 !!
+I'm ♕Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮SEO Expert🚀✮Designer 📸 I am currently a Computer Science and Engineering Student at Virtual University of Pakistan
+
+
+## I'm ,♕DSC Lead @Google !!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
