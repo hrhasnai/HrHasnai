@@ -5,7 +5,7 @@
 I'm ♕Font-End Developer👨‍💻 Currently, I'm a student of BS (Computer Science & engineering) and also **Developer Student Clubs (DSC Lead) by Google Developer** .
 
 
-### I'm ,♕DSC Lead at Google Developers !!
+### ♕DSC Lead at Google Developers !!
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on BenSixPortfolio.
