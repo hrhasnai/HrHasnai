@@ -1,6 +1,6 @@
 ### Hi I'm Hasnain Rasheed, from Pakisan :pakistan:  👋
 
-<img align="right" alt="GIF" src="https://github.com/HrHasnai/HrHasnai/blob/main/hrhasnai.png?raw=true" width="500" height="500" />
+<img align="right" alt="GIF" src="https://github.com/HrHasnai/HrHasnai/blob/main/hrhasnai%20(2).png?raw=true" width="500" height="500" />
 
 I'm ♕Font-End Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮SEO Expert🚀✮Designer 📸 I am currently a Computer Science and Engineering Student at Virtual University of Pakistan
 
@@ -13,7 +13,7 @@ I'm ♕Font-End Developer👨‍💻 ♕Marketing & Branding Strategist🎯 ✮S
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Secret facts: I'm Pro Yoga Expert.
+- ⚡ Fun fact: 
 
 
 ### :mailbox: Reach me out!
