@@ -1,6 +1,6 @@
 ### Hi! there, I'm Hasnain Rasheed💻, from Pakisan :pakistan:  👋
 
-<img align="right" alt="GIF" src="https://github.com/HrHasnai/HrHasnai/blob/main/hrhasnai%20(2).png" width="500" height="500" />
+<img align="right" alt="GIF" src="https://github.com/HrHasnai/HrHasnai/blob/main/hrhasnai%20(2).png.png" width="500" height="500" />
 
 I'm ♕Font-End Developer👨‍💻 Currently, I'm a student of BS (Computer Science & engineering) and also **Developer Student Clubs (DSC Lead) by Google Developer** .
 
