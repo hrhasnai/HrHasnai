@@ -1,4 +1,4 @@
-### Hi! there, I'm Hasnain Rasheed💻, from Pakisan :pakistan:  👋
+### Hi! there, I'm Hamiz khan💻, from Pakisan :pakistan:  👋
 
 <img align="right" alt="GIF" src="https://github.com/HrHasnai/HrHasnai/blob/main/hrhasnai%20(2).png.jpg" width="500" height="500" />
 
