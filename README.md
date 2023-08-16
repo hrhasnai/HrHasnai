@@ -12,8 +12,7 @@ I'm ♕Font-End Developer👨‍💻 Currently, I'm a student of BS (Computer Sc
 - 🌱 I’m currently learning Full Stack Web Development, Flutter and cloud computing.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... everything especially about tech, movies, series, filmmaking, and designs.
-- 📛 Nick Name: Hasnai
-- ⚡ Fun fact: 
+
 
 
 ### :mailbox: Reach me out!
